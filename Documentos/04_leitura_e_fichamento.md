@@ -18,15 +18,15 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Problema investigado
 
-`\[preencher]`
+`[preencher]`
 
 ### Objetivo do estudo
 
-`\[preencher]`
+`[preencher]`
 
 ### Método utilizado
 
-`\[preencher]`
+`[preencher]`
 
 ### Contexto, amostra ou dados
 
@@ -34,31 +34,31 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Principais resultados
 
-`\[preencher]`
+`[preencher]`
 
 ### Limitações apresentadas
 
-`\[preencher]`
+`[preencher]`
 
 ### Contribuição para o nosso artigo
 
-`\[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
 
 ### Comentário crítico
 
-`\[Registre forças, fragilidades, concordâncias ou divergências.]`
+`[Registre forças, fragilidades, concordâncias ou divergências.]`
 
 ### Citação literal opcional
 
-> `\[trecho exato]`
+> `[trecho exato]`
 
-Página: `\[número]`
+Página: `[número]`
 
 ## Checklist
 
-* \[ ] O artigo foi lido além do resumo.
-* \[ ] O método e os resultados foram identificados.
-* \[ ] As limitações foram registradas.
-* \[ ] A conexão com o tema foi explicada.
-* \[ ] Toda citação literal contém página.
+* [ ] O artigo foi lido além do resumo.
+* [ ] O método e os resultados foram identificados.
+* [ ] As limitações foram registradas.
+* [ ] A conexão com o tema foi explicada.
+* [ ] Toda citação literal contém página.
 
