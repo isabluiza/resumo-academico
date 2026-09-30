@@ -30,7 +30,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Contexto, amostra ou dados
 
-`\[preencher]`
+`[preencher]`
 
 ### Principais resultados
 
