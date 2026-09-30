@@ -2,7 +2,8 @@
 
 ## Solicitação
 
-Escreva a primeira versão completa do artigo seguindo a estrutura abaixo. 500 a 1000 palavras.
+Escreva a primeira versão completa do artigo seguindo a estrutura abaixo.
+Considerando INTRODUÇÃO, METODOLOGIA, REVISÃO DA LITERATURA, SÍNTESE CRÍTICA, CONSIDERAÇÕES FINAIS E RESUMO, a escrita deve ter entre 600 a 700 palavras.
 
 # Título
 
