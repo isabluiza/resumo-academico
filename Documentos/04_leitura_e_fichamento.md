@@ -2,7 +2,7 @@
 
 ## Solicitação
 
-Preencha uma cópia deste template para cada artigo selecionado.
+Preencha **uma cópia** deste template **para cada artigo** selecionado.
 
 Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação entre 2021 a 2026.
 
