@@ -8,11 +8,11 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `\[preencher]`
-* DOI ou URL: `\[preencher]`
-* Base de origem: `\[preencher]`
-* Leitor responsável: `\[preencher]`
-* Data da leitura: `\[dd/mm/aaaa]`
+* Referência completa: `[preencher]`
+* DOI ou URL: `[preencher]`
+* Base de origem: `[preencher]`
+* Leitor responsável: `[preencher]`
+* Data da leitura: `[dd/mm/aaaa]`
 
 ## Fichamento
 
